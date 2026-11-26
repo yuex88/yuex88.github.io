@@ -1,4 +1,4 @@
-const CACHE = "yuex-v18";
+const CACHE = "yuex-v19";
 self.addEventListener("install", (e) => {
   self.skipWaiting();
 });
